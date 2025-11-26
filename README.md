@@ -14,6 +14,8 @@ has:
 - Downloads and serves album art images
 - Serves background images for dashboards
 
+If you're going to use the grafana dashboard example I provided, make sure to get the Dynamic Image Panel Grafana plugin:
+https://grafana.com/grafana/plugins/dalvany-image-panel/
 
 you can also start/stop the service from a termux launch/script widget on your android phone.
 example scripts in ~/.shortcuts/ on your phone:
