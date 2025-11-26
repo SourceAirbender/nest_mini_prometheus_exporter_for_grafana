@@ -1,0 +1,6 @@
+pychromecast
+prometheus_client
+Flask
+Werkzeug
+requests
+python-dotenv

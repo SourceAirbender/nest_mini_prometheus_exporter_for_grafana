@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+*.pyc
+*.log
+.git.old/
+.env
+song_play_stats.json
+
+top10_album_arts/
+bgs_nest_top_ten/
+checker_logs/
+checker_logs/*
+__obsolete/
+.DS_Store
